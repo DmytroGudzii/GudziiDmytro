@@ -1,0 +1,265 @@
+.container {
+    width: 1400px;
+    height: 1772px;
+    margin: 0 auto;
+    padding-top: 20px;
+    background: black;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.btn {
+    width: 264px;
+    height: 73px;
+    border-radius: 32px;
+    background: white;
+    border: 1px solid transparent;
+    cursor: pointer;
+    box-shadow: 12px 32px 80px -20px rgba(0, 0, 0, 0.12);
+    margin-top: 301px;
+    margin-left: 570px;
+    position: absolute;
+}
+
+.colortext {
+    color: #750505;
+}
+
+.textbtn {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.bigKvadrat {
+    width: 137px;
+    height: 137px;
+    background: white;
+    border-radius: 32px;
+    margin-top: 68px;
+    margin-left: 74px;
+    position: absolute;
+}
+
+.smallCircle {
+    width: 42px;
+    height: 42px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 453px;
+    margin-top: 47px;
+    position: absolute;
+}
+
+.kvadratQ {
+    width: 90px;
+    height: 90px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 739px;
+    margin-top: 23px;
+    position: absolute;
+}
+
+.kvadratW {
+    width: 83px;
+    height: 83px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 1134px;
+    margin-top: 68px;
+    position: absolute;
+}
+
+.CircleQ {
+    width: 51px;
+    height: 51px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 238px;
+    margin-top: 337px;
+    position: absolute;
+
+}
+
+.smallCircleQ {
+    width: 42px;
+    height: 42px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 1134px;
+    margin-top: 294px;
+    position: absolute;
+}
+
+.CircleW {
+    width: 25px;
+    height: 25px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 91px;
+    margin-top: 453px;
+    position: absolute;
+
+}
+
+.kvadratE {
+    width: 90px;
+    height: 90px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 364px;
+    margin-top: 484px;
+    position: absolute;
+}
+
+.kvadratR {
+    width: 90px;
+    height: 90px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 895px;
+    margin-top: 484px;
+    position: absolute;
+}
+
+.CircleE {
+    width: 63px;
+    height: 63px;
+    border-radius: 32px;
+    background: white;
+    margin-left: 1217px;
+    margin-top: 453px;
+    position: absolute;
+
+}
+
+.cards-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 1440px;
+    margin-top: 665px;
+
+
+}
+
+.card-style {
+    width: 178px;
+    height: 251px;
+    background: #3e3e3e;
+    border-radius: 12px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.image {
+    position: absolute;
+    width: 164px;
+    height: 194px;
+    margin-left: 6.7px;
+    margin-right: 6.7px;
+    margin-top: 6.4px;
+    border-radius: 12px;
+    z-index: 2;
+
+}
+
+.cn {
+    position: absolute;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    z-index: 2;
+
+}
+
+.cd {
+    margin-top: 190px;
+    margin-left: 6.7px;
+    position: absolute;
+    color: white;
+    size: 17px;
+    z-index: 2;
+
+}
+
+
+
+.effect {
+    height: 250px;
+    width: 178px;
+    background: white;
+    position: absolute;
+    border-radius: 12px;
+    margin-left: 43px;
+    margin-bottom: 34px;
+    cursor: pointer;
+    right: 0.01px;
+
+}
+
+.card-container:hover .effect {
+
+    transform: translateY(30px);
+
+}
+
+.card-container {
+    position: relative;
+    width: 178px;
+    height: 251px;
+    margin-left: 53px;
+    margin-top: 34px;
+
+}
+
+.delete  {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    border: none;
+    cursor: pointer;
+    left: 72px;
+    top: 225px;
+    background-image: url("delete.png.png");
+}
+
+/*.urna {*/
+/*    height: 18px;*/
+/*    width: 13px;*/
+/*    border: none;*/
+/*    position: relative;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
